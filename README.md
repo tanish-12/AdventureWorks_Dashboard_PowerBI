@@ -1,3 +1,4 @@
+![AdventureWorksDashboard](https://github.com/tanish-12/AdventureWorks_Dashboard_PowerBI/assets/97330284/16cc1503-1a3a-452e-bcf8-a7ce0fb61e67)
 # AdventureWorks_Dashboard_Project
 
 - **Overview:** This Power BI dashboard offers a holistic view of Adventure Works' performance metrics, aiding stakeholders in understanding the company's financial health and market trends.
@@ -22,4 +23,4 @@
 - **Business Impact:**
   - **Efficiency Gains:** Streamlining data analysis processes and providing real-time insights, saving time and resources while enhancing productivity.
   - **Informed Decision-making:** Equipping stakeholders with actionable intelligence to make informed decisions, leading to improved business outcomes and sustained growth.
-![AdventureWorksDashboard](https://github.com/tanish-12/AdventureWorks_Dashboard_PowerBI/assets/97330284/16cc1503-1a3a-452e-bcf8-a7ce0fb61e67)
+
